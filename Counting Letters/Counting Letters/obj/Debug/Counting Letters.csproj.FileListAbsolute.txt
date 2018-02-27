@@ -1,0 +1,9 @@
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Counting Letters\Counting Letters\Counting Letters\bin\Debug\Counting Letters.exe.config
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Counting Letters\Counting Letters\Counting Letters\bin\Debug\Counting Letters.exe
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Counting Letters\Counting Letters\Counting Letters\bin\Debug\Counting Letters.pdb
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Counting Letters\Counting Letters\Counting Letters\obj\Debug\Counting Letters.csprojResolveAssemblyReference.cache
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Counting Letters\Counting Letters\Counting Letters\obj\Debug\Counting_Letters.Form1.resources
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Counting Letters\Counting Letters\Counting Letters\obj\Debug\Counting_Letters.Properties.Resources.resources
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Counting Letters\Counting Letters\Counting Letters\obj\Debug\Counting Letters.csproj.GenerateResource.Cache
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Counting Letters\Counting Letters\Counting Letters\obj\Debug\Counting Letters.exe
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Counting Letters\Counting Letters\Counting Letters\obj\Debug\Counting Letters.pdb
